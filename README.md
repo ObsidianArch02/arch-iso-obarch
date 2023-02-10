@@ -1,3 +1,22 @@
+# TODO
+
+- [x] 需要添加 linux-xanmod 的 config 到 `./efiboot/loader/entries/`，关于自定义内核，需要找到一个使用案例
+- [] 将需要的 AUR 包部署到自建仓库中，解决包签名问题
+- [x] 更改 `pacman.conf` 配置，使用了 `aria2c` 实现多线程下载，发现效果不佳
+- [] 配置必要的 systemd 启动项
+
+```
+sudo rm -rf work/
+``` 
+
+```
+sudo rm -rf work/ ; sudo mkarchiso -v . -w work -o out
+```
+
+---
+
+# Based on:
+
 # Archiso with zfs
 
 * archzfs repo added

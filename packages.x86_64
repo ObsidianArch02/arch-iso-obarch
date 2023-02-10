@@ -2,11 +2,10 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 acpi
 alsa-utils
-alacritty
 archinstall
+aria2
 amd-ucode
 arch-install-scripts
-archlinuxcn-keyring
 b43-fwcutter
 base
 base-devel
@@ -30,12 +29,14 @@ edk2-shell
 efibootmgr
 espeakup
 ethtool
+exa
 exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
 flameshot
 firefox
+fish
 gnu-netcat
 gpart
 gpm
@@ -53,10 +54,11 @@ iproute2
 irssi
 iwd
 jfsutils
+kitty
 kitty-terminfo
 lftp
-linux
-linux-headers
+linux-xanmod
+linux-xanmod-headers
 linux-atm
 linux-firmware
 livecd-sounds
@@ -126,14 +128,12 @@ testdisk
 tmux
 ttf-dejavu
 ttf-droid
-telegram-desktop
 udftools
 usb_modeswitch
 usbutils
 vim
 vpnc
 v2ray
-v2raya
 wireless-regdb
 wireless_tools
 wpa_supplicant
