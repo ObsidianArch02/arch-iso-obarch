@@ -126,8 +126,6 @@ tcpdump
 terminus-font
 testdisk
 tmux
-ttf-dejavu
-ttf-droid
 udftools
 usb_modeswitch
 usbutils
@@ -140,7 +138,6 @@ wpa_supplicant
 wvdial
 wget
 weechat
-wqy-microhei
 xfsprogs
 xl2tpd
 xfce4
@@ -159,3 +156,10 @@ zip
 zsh
 zfs-utils-git
 zfs-dkms-git
+ttf-sarasa-gothic
+ttf-firacode-nerd
+noto-fonts-emoji
+fcitx5
+fcitx5-chinese-addons
+fcitx5-gtk
+fcitx5-qt
