@@ -11,6 +11,9 @@ bind-tools
 brltty
 broadcom-wl
 btrfs-progs
+e2fsprogs
+exfatprogs
+lib32-e2fsprogs
 clonezilla
 crda
 darkhttpd
@@ -152,3 +155,5 @@ fcitx5-chinese-addons
 fcitx5-gtk
 fcitx5-qt
 yazi
+memtest86+-efi
+fio
