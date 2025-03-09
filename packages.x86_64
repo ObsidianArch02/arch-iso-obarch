@@ -1,5 +1,3 @@
-#
-# SPDX-License-Identifier: GPL-3.0-or-later
 acpi
 alsa-utils
 archinstall
@@ -54,8 +52,7 @@ iproute2
 irssi
 iwd
 jfsutils
-kitty
-kitty-terminfo
+ghostty
 lftp
 linux-xanmod
 linux-xanmod-headers
@@ -140,10 +137,8 @@ wget
 weechat
 xfsprogs
 xl2tpd
-xfce4
-xfce4-battery-plugin
-xfce4-taskmanager
-xfce4-goodies
+plasma
+kde-applications
 xorg-apps
 xorg-drivers
 xorg-server
