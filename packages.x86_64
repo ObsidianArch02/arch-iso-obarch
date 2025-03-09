@@ -133,8 +133,10 @@ wvdial
 wget
 xfsprogs
 xl2tpd
-plasma
-kde-applications
+xfce4
+xfce4-battery-plugin
+xfce4-taskmanager
+xfce4-goodies
 xorg-apps
 xorg-drivers
 xorg-server
